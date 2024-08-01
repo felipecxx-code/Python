@@ -6,31 +6,39 @@
 
 # Adicione comentários ao código abaixo para explicar o que ele faz
 
+# Uma variável que recebe uma string com o primeiro nome.
 firstName = "Andy"
 
+# o print tem como função imprimir o valor da variável firstName
 print(firstName)
 
 # Prever e executar o exemplo 2
 
 # Adicione comentários ao código abaixo para explicar o que ele faz
 
+# Uma variável que recebe uma string com o sobrenome.
 lastName = "Colley"
 
+# Variável para imprimir o nome completo, atribuindo a variável firstName, com uma aspas vazia para dar espaço na variável lastName
 fullName = firstName + " " + lastName
 
+# Comando de saída para imprimir o nome completo.
 print(fullName)
 
 #Prever e executar o exemplo 3
 
 # Adicione comentários ao código abaixo para explicar o que ele faz
 
+# Uma mensagem de saudação será exibida, juntando com o primeiro nome, e logo na sequência exibe o nome completo
 print("Hello " + firstName + ". Your full name is " + fullName + ".")
 
 # O que é atribuição?
+# Uma forma de identificar uma variável, usando o sinal de = (igual)
 
 # Precisa de mais ajuda com a tarefa? (https://www.w3schools.com/python/python_variables.asp)
 
 # O que é concatenação?
+# Uma forma de fazer uma junção entre variáveis, strings, números e etc...
 
 # Precisa de mais ajuda com a concatenação? (https://www.w3schools.com/python/gloss_python_string_concatenation.asp)
 

@@ -5,30 +5,31 @@
 print("Hello World!")
 
 # Minha previsão, adicione sua previsão como comentário
-# Remova esse comentário e escreva sua previsão
+# O código irar imprimir na tela a frase Hello World!
 
 # Tarefa - Investigar
 # Use comentários para responder às perguntas de investigação no código de exemplo.
 
 # Qual parte do código de exemplo é a instrução de saída?
 
-# Responda:
+# Responda: A palavra print
 
 # Qual parte do código de exemplo é a string?
 
-# Responda:
+# Responda: o que está entre aspas "Hello World!"
 
 # Qual seria a saída do código print("I love Computing")?
 
-# Responda:
+# Responda: A saída seria I love Computing
 
 # O que aconteceria se o código print("I love Comping") fosse executado?
 
-# Responda:
+# Responda: Seria impresso na tela I love Comping
 
 # O que aconteceria se o código print("I love Computing" fosse executado?
 
-# Responda:
+# Responda: Daria um erro de sintaxe, pois o o print não foi fechado com o parentêse.
+# Seria exibido a mensagem: SyntaxError: '(' was never closed
 
 
 

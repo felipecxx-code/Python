@@ -1,7 +1,8 @@
 # Exercício 2
 # Adapte o código para gerar sua própria mensagem e adicione comentários para mostrar o que ele faz.
 
-print("Hello World!")
+print("Me chamo Felipe, e estou estudando Ciência de dados")
+# É um código onde será impresso na tela o meu nome e o curso que estou fazendo. 
 
 
 

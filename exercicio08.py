@@ -7,29 +7,29 @@
 
 # Por fim, preveja qual vai ser o valor da variável time, escrevendo a resposta como comentário
 
-# Adicione seu comentário aqui
+# variáveis para definir o tempo de cada mangueira em horas
 
 time_green = 1.5
 time_blue = 1.2
 
-# Adicione seu comentário aqui
+# variável para transformar o tempo em horas para minutos
 
 minutes_green = 60 * time_green
 minutes_blue = 60 * time_blue
 
-# Adicione seu comentário aqui
+# Taxa de vazão de cada mangueira por minuto
 
 rate_hose_green = 1 / minutes_green
 rate_hose_blue = 1 / minutes_blue
 
-# Adicione seu comentário aqui
+# Taxa de vazão das duas mangueiras juntas
 
 rate_host_combined = rate_hose_green + rate_hose_blue
 
-# Adicione seu comentário aqui
+# Tempo para encher a piscina
 
 time = 1 / rate_host_combined
 
 # Escreva neste comentário qual será o valor de time no final da execução do código
 
-# Resposta
+# Resposta A piscina encherá em 40 minutos utilizando as duas mangueiras juntas.

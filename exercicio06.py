@@ -9,12 +9,15 @@ name1 = "Axl"
 name2 = "Slash"
 
 # Adicione mais 2 variáveis para armazenar 'Duff' e 'Izzy'
+name3 = "Duff" 
+name4= "Izzy"
 
 #Esta linha usa concatenação para juntar as variáveis com a string 'and' para formar uma frase.
 
 #Complete a linha para gerar todas as variáveis
 
-print(name1 + " and " + name2 + " and ")
+# A saída concatenará todas variáveis atribuidas com strings de nome de participantes de uma banda.
+print(name1 + " and " + name2 + " and " + name3 + " and " + name4) 
 
 
 """Ajuda! Meu código não funciona!

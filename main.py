@@ -1,6 +1,6 @@
 # Adicione seu nome e sobrenome aqui
-nome = "Coloque"
-sobrenome = "seu nome no arquivo main"
+nome = "Felipe"
+sobrenome = "Caxixi de Oliveira"
 
 if not nome or not sobrenome:
     print("Você deve adicionar seu nome e sobrenome na variável 'nome' e 'sobrenome'")

@@ -5,3 +5,8 @@
 
 # Escreva seu código aqui
 
+valor1 = 7
+valor2 = 6
+
+media = (valor1 + valor2) / 2
+print(media)

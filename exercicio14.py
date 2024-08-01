@@ -14,3 +14,11 @@
 # h = altura
 
 # Escreva seu código aqui#
+
+c = float(input('Informe o valor do comprimento do paralelepípedo: '))
+l = float(input('Informe o valor da largura do paralelepípedo: '))
+h = float(input('Informe o valor da altura do paralelepípedo: '))
+
+v = c * l * h
+
+print(f'O valor da área do retângulo é {v}')
